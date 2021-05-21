@@ -1,0 +1,17 @@
+include ':route_detail'
+include ':usecase'
+include ':repo'
+include ':core'
+include ':api'
+include ':database'
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://jitpack.io' }
+
+    }
+}
+rootProject.name = "RoutesApp"
+include ':app'

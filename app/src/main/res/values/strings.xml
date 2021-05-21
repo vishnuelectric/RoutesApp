@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TickerTape</string>
+    <string name="departs_on">Departs On</string>
+    <string name="travel_time">Travel time :</string>
+    <string name="seats_available">Seats available :</string>
+    <string name="title_route_detail">RouteDetail</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

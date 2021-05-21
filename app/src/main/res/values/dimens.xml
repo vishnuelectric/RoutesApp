@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_margin_start_24dp">24dp</dimen>
+    <dimen name="standard_margin_top_24dp">24dp</dimen>
+    <dimen name="history_stock_price_30sp">30sp</dimen>
+</resources>
